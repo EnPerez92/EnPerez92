@@ -72,9 +72,14 @@ how technology can solve everyday problems.
 
 ---
 
+
 ## Selected Projects
 
 <div align="center">
+
+<a href="https://github.com/EnPerez92/AI-Response-Evaluator">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=EnPerez92&repo=AI-Response-Evaluator&bg_color=F5F1EB&title_color=8B735B&text_color=6B625B&icon_color=A58A72&hide_border=true" alt="AI Response Evaluator project" />
+</a>
 
 <a href="https://github.com/EnPerez92/finance-tracker">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=EnPerez92&repo=finance-tracker&bg_color=F5F1EB&title_color=8B735B&text_color=6B625B&icon_color=A58A72&hide_border=true" alt="Finance Tracker project" />
@@ -96,11 +101,22 @@ how technology can solve everyday problems.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=EnPerez92&show_icons=true&title_color=8B735B&text_color=6B625B&icon_color=A58A72&bg_color=F5F1EB&hide_border=true" height="165" alt="GitHub statistics" />
+<img src="https://github-readme-stats.vercel.app/api?username=EnPerez92&show_icons=true&count_private=true&title_color=8B735B&text_color=6B625B&icon_color=A58A72&bg_color=F5F1EB&hide_border=true" height="165" alt="GitHub statistics" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnPerez92&layout=compact&title_color=8B735B&text_color=6B625B&bg_color=F5F1EB&hide_border=true" height="165" alt="Most used programming languages" />
 
 </div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=EnPerez92&background=F5F1EB&ring=A58A72&fire=8B735B&currStreakLabel=8B735B&sideLabels=8B735B&currStreakNum=6B625B&sideNums=6B625B&dates=8B735B&hide_border=true" alt="GitHub contribution streak" />
+
+</div>
+
+---
+
 
 ---
 
