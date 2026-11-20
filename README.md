@@ -1,5 +1,12 @@
 
 <div align="center">
+  <img src="banner.png" alt="Minimalist beige coding banner" width="100%" />
+</div>
+
+<br>
+
+
+<div align="center">
 
 # Ellie Perez
 
